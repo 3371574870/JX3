@@ -5,10 +5,8 @@
 你可以点这里下载2 [自动剑网三山楂果.exe](https://wwa.lanzoui.com/itIyHpli9qj) （已经可以下载）0:29 2021/5/30
 
 ### 游戏设置
-
-需要用到两个剑网三的插件
-![2021-05-30_000738](imgs\两个插件.png)
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/3371574870/JX3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+ -系统ESC > 游戏设置 > 界面缩放: 1.0 文字缩放:0
+ 
 
 ### 关于
 
