@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 [编辑](https://github.com/3371574870/JX3/edit/gh-pages/index.md)
 
-你可以点这里下载 [剑网三自动搓山楂果.EXE](https://github.com/3371574870/JX3/edit/gh-pages/index.md)
+你可以点这里下载 [剑网三_自动山楂果.EXE](https://github.com/3371574870/JX3/edit/gh-pages/index.md)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
