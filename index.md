@@ -16,7 +16,7 @@
 | 缩放       | 100%         |      |
 | 游戏       | 全屏         |      |
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+游戏设置必须差不多基于像素的识别
 
 ### Jekyll Themes
 
