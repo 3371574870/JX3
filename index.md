@@ -29,7 +29,7 @@
  ![1](2.png)</br>
  ![1](3.png)</br>
  ![1](4.png)</br>
- 
+  <img src="3.png" width = "400" alt="" align=center />
   <img src="4.png" width = "400" alt="" align=center />
 
  > # 把【球球兔】【榴芒兔】【封侯】依次加入茗伊临时焦点（建议在扬州，图中的球球兔位置最佳）</br>
