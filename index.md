@@ -10,23 +10,11 @@
 基于DD虚拟驱动按键，理论上等同物理按键，因此无法就后台
 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+| 运行环境 | Windows 64位 | 屏幕分辨率1920*1080 |
+| -------- | ------------ | ------------------- |
+|          |              |                     |
+|          |              |                     |
+|          |              |                     |
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
