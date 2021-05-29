@@ -10,11 +10,11 @@
 基于DD虚拟驱动按键，理论上等同物理按键，因此无法就后台
 
 
-| 运行环境 | Windows 64位 | 屏幕分辨率1920*1080 |
-| -------- | ------------ | ------------------- |
-|          |              |                     |
-|          |              |                     |
-|          |              |                     |
+| 运行环境   | Windows 64位 |      |
+| ---------- | ------------ | ---- |
+| 显示分辨率 | 1920*1080    |      |
+| 缩放       | 100%         |      |
+| 游戏       | 全屏         |      |
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
