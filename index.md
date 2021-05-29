@@ -1,6 +1,6 @@
 ## 《剑网三》AI自动学习做山楂果
 
-你可以点这里下载1 [自动剑网三山楂果.zip](https://github.com/3371574870/JX3/山楂果.zip)(Github下载) 2:51 2021/5/30
+你可以点这里下载1 [自动剑网三山楂果.zip](https://github.com/3371574870/JX3/山楂果.zip)  (Github下载) 2:51 2021/5/30
 
 你可以点这里下载2 [自动剑网三山楂果.zip](https://wwa.lanzoui.com/itIyHpli9qj) （蓝筹云下载）0:29 2021/5/30
 
