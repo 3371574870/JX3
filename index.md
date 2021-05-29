@@ -1,5 +1,4 @@
 ## 《剑网三》AI自动学习做山楂果
-[编辑](https://github.com/3371574870/JX3/edit/gh-pages/index.md)
 
 你可以点这里下载1 [自动剑网三山楂果.exe](#)
 
