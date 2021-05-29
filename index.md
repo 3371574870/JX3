@@ -26,7 +26,7 @@
 ### 详情使用说明
  > # 需要使用茗伊插件和懒人插件，确认系统设置和插件设置与下图一样</br>
  ![1](1.png)
- <img src="1.png" width = "200" height = "300" alt="" align=center />
+ <img src="1.png" width = "400" alt="" align=center />
  ![1](2.png)</br>
  ![1](3.png)</br>
  ![1](4.png)</br>
