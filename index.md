@@ -20,6 +20,8 @@
 
 ### 游戏设置
 
+需要用到两个剑网三的插件
+![2021-05-30_000738](imgs\两个插件.png)
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/3371574870/JX3/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### 关于
