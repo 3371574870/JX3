@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 《剑网三》AI自动学习做山楂果
 [编辑](https://github.com/3371574870/JX3/edit/gh-pages/index.md)
 
 你可以点这里下载 [自动剑网三山楂果.exe](https://github.com/3371574870/JX3/edit/gh-pages/index.md)
