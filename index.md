@@ -17,4 +17,7 @@
 
 ### 关于
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+基于像素的识别，所以需要以上设置完全一样其余随意。
+基于虚拟驱动按键，所以只能单开前台理论上不会封号。
+
+
